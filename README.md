@@ -11,13 +11,13 @@ This repository is a set of scripts that will allow you easily install the lates
 3. Clone this repo
 
 ```
-git clone https://github.com/kenmoini/installrhel.git
+got clone https://github.com/mustufa5689/OCP-3.11-All-in-One
 ```
 
 4. Execute the installation script
 
 ```
-cd installrhel
+cd OCP-3.11-All-in-One
 ./install-openshift.sh
 ```
 
